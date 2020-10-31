@@ -7,4 +7,5 @@ Before joining NYU, I obtained a master’s degree in applied mathematics from [
 You can contact me at sl8160@nyu.edu
 
 
+---
 <!-- Remove above link if you don't want to attibute -->
