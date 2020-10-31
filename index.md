@@ -1,35 +1,7 @@
-## Portfolio
+---
+I am a first-year PhD student at the [Center for Data Science](https://cds.nyu.edu/) at NYU and a [DeepMind](https://deepmind.com/) fellow, advised by Professors [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) and [Julia Kempe](https://cims.nyu.edu/~kempe/).  I am currently interested in understanding and quantifying the generalization of deep learning models. More broadly, my research interests include the mathematics of deep learning, probabilistic generative models, Bayesian deep learning and statistical learning theory. 
+
+Before joining NYU, I obtained a master’s degree in applied mathematics from [Polytechnique Montreal](polytechnique montreal). I was fortunate to work there with Professors [Andrea Lodi](https://cerc-datascience.polymtl.ca/person/dr-andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) to design stochastic first- and second-order algorithms with compelling theoretical and empirical properties for machine learning and large-scale optimization. I also hold an engineering degree in general engineering and applied mathematics from [CentraleSupélec](https://www.centralesupelec.fr/en).
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
