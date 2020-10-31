@@ -4,7 +4,4 @@ Before joining NYU, I obtained a master’s degree in applied mathematics from [
 
 ---
 You can contact me at sl8160@nyu.edu
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
