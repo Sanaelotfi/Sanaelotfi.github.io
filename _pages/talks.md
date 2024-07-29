@@ -13,7 +13,7 @@ author_profile: true
 - Rising Stars in Machine Learning Workshop, UMD 
 - NeurIPS North Africans in ML Workshop, Keynote Talk
 
-**Understanding Generalization in Large Language Models through the lens of Compression**
+**Understanding Generalization in Large Language Models through the Lens of Compression**
 - NeurIPS Machine Learning and Compression Workshop, Keynote Talk (upcoming) 
 
 **Non-Vacuous Generalization Bounds for Large Language Models**
