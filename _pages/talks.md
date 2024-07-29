@@ -11,7 +11,10 @@ author_profile: true
 - CMU, Artificial Intelligence Seminar Series
 - FAIR, Meta AI NYC
 - Rising Stars in Machine Learning Workshop, UMD 
-- NeurIPS North Africans in ML Workshop, Keynote Talk 
+- NeurIPS North Africans in ML Workshop, Keynote Talk
+
+**Understanding Generalization in Large Language Models through the lens of Compression**
+- NeurIPS Machine Learning and Compression Workshop, Keynote Talk (upcoming) 
 
 **Non-Vacuous Generalization Bounds for Large Language Models**
 - Cohere For AI, Guest Talk
@@ -27,9 +30,6 @@ author_profile: true
 
 **Robustness of Deep Learning Models to Distribution Shift**
 - ICML Women in Machine Learning Workshop, Session Co-Leader
-
-**Understanding Generalization through the lens of Compression**
-- NeurIPS Machine Learning and Compression Workshop, Keynote Talk (upcoming) 
 
 **Adaptive First and Second Order Algorithms for Large-Scale Machine Learning**
 - SIAM Conference on Optimization
