@@ -10,7 +10,7 @@ You can also find my papers on <a href="{{site.author.googlescholar}}">my Google
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
 _ICML Workshop on Theoretical Foundations of Foundation Models, 2024_ \
-**Best Paper Award & Oral Presentation** \
+🏆 **Best Paper Award & Oral Presentation** \
 _Under conference review._ \
 [[arxiv](https://arxiv.org/abs/2407.18158)]
 
@@ -39,7 +39,7 @@ _Neural Information Processing Systems (NeurIPS), 2022_ \
 **Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
 _International Conference on Machine Learning (ICML), 2022_ \
 **Long oral presentation, top 2% submissions** \
-**Outstanding Paper Award** \
+🏆 **Outstanding Paper Award** \
 [[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/files/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/files/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
 
 **[Dangers of Bayesian Model Averaging under Covariate Shift](https://arxiv.org/abs/2106.11905)** \
