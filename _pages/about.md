@@ -21,26 +21,26 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 
 ### Recent News 
 
-- July 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)_ won a **Best Paper Award** at the ICML Workshop on Theoretical Foundations of Foundation Models. 
+🏆 July 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)_ won a **Best Paper Award** at the ICML Workshop on Theoretical Foundations of Foundation Models. 
 
-- July 2024: I will be a **keynote speaker** at the [Machine Learning and Compression Workshop](https://neuralcompression.github.io/workshop24) @ NeurIPS 2024. 
+📢 July 2024: I will be a **keynote speaker** at the [Machine Learning and Compression Workshop](https://neuralcompression.github.io/workshop24) @ NeurIPS 2024. 
 
-- July 2024: I'm co-organizing the [Scientific Methods for Understanding Neural Networks Workshop](https://scienceofdlworkshop.github.io/) @ NeurIPS 2024. 
+📆 July 2024: I'm co-organizing the [Scientific Methods for Understanding Neural Networks Workshop](https://scienceofdlworkshop.github.io/) @ NeurIPS 2024. 
 
-- June 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at ML Collective. 
+📢 June 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at ML Collective. 
 
-- June 2024: I started my summer internship at Microsoft Research NYC, where I will be working on large language model merging for multi-task learning with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/). 
+👩‍💻 June 2024: I started my summer internship at Microsoft Research NYC, where I will be working on large language model merging for multi-task learning with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/). 
 
-- May 2024: _[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)_ got accepted to ICML! 
+🥳 May 2024: _[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)_ got accepted to ICML! 
 
-- May 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at Cohere for AI and UIUC ML Reading group. 
+📢 May 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at Cohere for AI and UIUC ML Reading group. 
 
 ### Selected Publications  
 
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
 _ICML Workshop on Theoretical Foundations of Foundation Models, 2024_ \
-**Best Paper Award** \
+🏆 **Best Paper Award** \
 [[arxiv](https://arxiv.org/abs/2407.18158)]
 
 **[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)** \
@@ -51,7 +51,7 @@ _ICML 2024_ \
 **[Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678)** \
 **Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
 _ICML 2022, JMLR 2023_ \
-**ICML Outstanding Paper Award, JMLR Best Papers Track** \
+🏆 **ICML Outstanding Paper Award, JMLR Best Papers Track** \
 [[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/files/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/files/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
 
 **[PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization](https://arxiv.org/abs/2211.13609)** \
@@ -73,5 +73,5 @@ _ICML 2021_ \
 **[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
 **Sanae Lotfi** \
 _Master's Thesis, Polytechnique Montreal 2020_ \
-**Best Thesis Award** 
+🏆 **Best Thesis Award** 
   
