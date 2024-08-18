@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at NYU advised by [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). I work on the foundations of deep learning and focus on understanding the generalization properties of deep neural networks using notions that relate to generalization such as model compression, the marginal likelihood, PAC-Bayes bounds, and loss surface analysis. Using insights about generalization, my goal is to build more robust and reliable machine learning models. 
+I am a PhD candidate at NYU advised by [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). I work on the science of deep learning and focus on understanding the generalization properties of deep neural networks using notions that relate to generalization such as model compression, the marginal likelihood, PAC-Bayes bounds, and loss surface analysis. Using insights about generalization, my goal is to build scalable, robust and reliable machine learning models. 
 
-My PhD research has been recognized with an [ICML Outstanding Paper Award](https://icml.cc/virtual/2022/poster/17991) and is generously supported by the [Microsoft Research PhD Fellowship](https://nyudatascience.medium.com/cds-students-sanae-lotfi-and-lucius-bynum-receive-the-microsoft-research-phd-fellowship-63ce04660227), the [Google DeepMind Fellowship](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), and the Meta AI Mentorship Program. I was recently distinguished as a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop) by the University of Maryland Center for Machine Learning.
+My PhD research has been recognized with an [ICML 2022 Outstanding Paper Award](https://icml.cc/virtual/2022/poster/17991) for my work on _Bayesian model selection_ and a Best Paper Award at the ICML 2024 Theoretical Foundations Workshop for my work on _understanding generalization in LLMs through the lens of compression_. My research is generously supported by the [Microsoft Research PhD Fellowship](https://nyudatascience.medium.com/cds-students-sanae-lotfi-and-lucius-bynum-receive-the-microsoft-research-phd-fellowship-63ce04660227), the [Google DeepMind Fellowship](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), and the Meta AI Mentorship Program. I was recently distinguished as a [Rising Star in EECS](https://risingstars-eecs.mit.edu/) by MIT and a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop) by the University of Maryland.
 
 I am currently interning at **Microsoft Research**, where I work with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/) to build novel methods for efficient large language model merging for mutli-task learning. In 2022-2023, I was a Visiting Researcher at **Meta FAIR**, where I worked with [Brandon Amos](http://bamos.github.io/) to derive generalization bounds for LLMs and understand the benefits of input-dependent augmentations in image classification. In summer 2022, I worked with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at **Amazon** to understand and quantify distribution shift in time series.  
 
@@ -21,7 +21,9 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 
 ### Recent News 
 
-🏆 July 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)_ won a **Best Paper Award** at the ICML Workshop on Theoretical Foundations of Foundation Models. 
+⭐ August 2024: I was selected as a **[Rising Star in EECS](https://risingstars-eecs.mit.edu/)** by MIT. 
+
+🏆 July 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)_ won the **Best Paper Award** at the ICML Theoretical Foundations Workshop. 
 
 📢 July 2024: I will be a **keynote speaker** at the [Machine Learning and Compression Workshop](https://neuralcompression.github.io/workshop24) @ NeurIPS 2024. 
 
