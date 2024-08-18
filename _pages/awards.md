@@ -5,7 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-- Best Paper Award at the ICML Theoretical Foundations of Foundation Models Workshop, 2024
+- Rising Star in EECS by MIT, 2024 
+- Best Paper Award at the ICML Theoretical Foundations Workshop, 2024
 - Rising Star in Machine Learning by the University of Maryland, 2023
 - Microsoft Research PhD Fellowship, 2023-2025
 - ICML Outstanding Paper Award, 2022
