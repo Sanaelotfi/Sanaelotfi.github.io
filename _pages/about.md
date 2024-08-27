@@ -15,7 +15,7 @@ I am currently interning at **Microsoft Research**, where I work with [Miro Dudi
 
 Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) at Polytechnique Montreal to design stochastic algorithms with compelling theoretical and empirical properties for large-scale optimization. I received the [Best Master's Thesis Award](https://www.gerad.ca/en/posts/903) for this work.
 
- **I will graduate in Spring 2025 and will start looking for postdoc and research scientist positions in Fall 2024. Feel free to reach out if you see a fit!**
+ **I will be on the job market in Fall 2024. Feel free to reach out if you see a fit!**
  
 **You can contact me at sl8160[at]nyu[dot]edu**
 
