@@ -31,7 +31,7 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 
 📢 June 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at ML Collective. 
 
-👩‍💻 June 2024: I started my summer internship at Microsoft Research NYC, where I will be working on large language model merging for multi-task learning with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/). 
+👩‍💻 June 2024: I started my summer internship at Microsoft Research NYC, where I will be working on large language model merging for multi-task learning. 
 
 🥳 May 2024: _[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)_ got accepted to ICML! 
 
