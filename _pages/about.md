@@ -20,6 +20,7 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 **You can contact me at sl8160[at]nyu[dot]edu**
 
 ### Recent News 
+________
 
 ⭐ August 2024: I was selected as a **[Rising Star in EECS](https://risingstars-eecs.mit.edu/)** by MIT. 
 
@@ -38,6 +39,7 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 📢 May 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at Cohere for AI and UIUC ML Reading group. 
 
 ### Selected Publications  
+________
 
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
