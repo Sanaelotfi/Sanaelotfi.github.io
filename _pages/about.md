@@ -23,6 +23,8 @@ ________
 
 ### Recent News 
 
+🥳 September 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)_ got accepted to NeurIPS as a **spotlight**! 
+
 ⭐ August 2024: I was selected as a **[Rising Star in EECS](https://risingstars-eecs.mit.edu/)** by MIT. 
 
 🏆 July 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)_ won the **Best Paper Award** at the ICML Theoretical Foundations Workshop. 
@@ -45,6 +47,8 @@ ________
 
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://arxiv.org/abs/2407.18158)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
+_NeurIPS 2024_ \
+🌟 **Spotlight Presentation**  \
 _ICML Workshop on Theoretical Foundations of Foundation Models, 2024_ \
 🏆 **Best Paper Award** \
 [[arxiv](https://arxiv.org/abs/2407.18158)]
@@ -73,7 +77,7 @@ _NeurIPS 2021_ \
 **[Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://arxiv.org/abs/2102.13042)** \
 Gregory W. Benton, Wesley J. Maddox, **Sanae Lotfi**, Andrew Gordon Wilson \
 _ICML 2021_ \
-**Spotlight Presentation** \
+🌟 **Spotlight Presentation** \
 [[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/files/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
 
 **[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
